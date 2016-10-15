@@ -4,10 +4,10 @@
 baseurl:
 url: https://github.com/ZCYTSL/
 date_format: "ordinal"
-title: honey羽
+title: ZCYTSL
 subtitle: "QQ"
-description: "honey羽的个人博客"
-keywords: honey羽
+description: "ZCYTSL的个人博客"
+keywords: ZCYTSL
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: honey羽
+author: ZCYTSL
 organization: QQ, Inc.
 organization_url: https://www.qq.com
 location: Beijing, China
